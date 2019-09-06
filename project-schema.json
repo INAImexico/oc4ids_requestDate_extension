@@ -1,0 +1,14 @@
+{
+  "properties": {
+    "budget": {
+      "properties": {
+        "requestDate": {
+          "title": "Request date",
+          "description": "The date on which the project budget was requested.",
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    }
+  }
+}

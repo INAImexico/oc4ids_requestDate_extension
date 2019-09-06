@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "oc4ids_requestDate_extension"
+  },
+  "description": {
+    "en": "This extension allows to publish the date on which the project budget was requested."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/antonioherrera/oc4ids_requestDate_extension"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "project-schema.json"
+  ]
+}
